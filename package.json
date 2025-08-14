@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "reka-ui": "^2.4.1",
     "vue": "^3.4.21"
   },
   "devDependencies": {
