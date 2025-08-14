@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       reka-ui:
-        specifier: ^2.4.1
-        version: 2.4.1(typescript@5.4.3)(vue@3.5.18(typescript@5.4.3))
+        specifier: ^2.3.2
+        version: 2.3.2(typescript@5.4.3)(vue@3.5.18(typescript@5.4.3))
       vue:
         specifier: ^3.4.21
         version: 3.5.18(typescript@5.4.3)
@@ -468,8 +468,8 @@ packages:
     resolution: {integrity: sha512-3Ybi1tAuwAP9s0r1UQ2J4n5Y0G05bJkpUIO0/bI9MhwmD70S5aTWbXGBwxHrelT+XM1k6dM0pk+SwNkpTRN7Pg==}
     engines: {node: ^10 || ^12 || >=14}
 
-  reka-ui@2.4.1:
-    resolution: {integrity: sha512-NB7DrCsODN8MH02BWtgiExygfFcuuZ5/PTn6fMgjppmFHqePvNhmSn1LEuF35nel6PFbA4v+gdj0IoGN1yZ+vw==}
+  reka-ui@2.3.2:
+    resolution: {integrity: sha512-lCysSCILH2uqShEnt93/qzlXnB7ySvK7scR0Q5C+a2iXwFVzHhvZQsMaSnbQYueoCihx6yyUZTYECepnmKrbRA==}
     peerDependencies:
       vue: '>= 3.2.0'
 
@@ -951,7 +951,7 @@ snapshots:
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
-  reka-ui@2.4.1(typescript@5.4.3)(vue@3.5.18(typescript@5.4.3)):
+  reka-ui@2.3.2(typescript@5.4.3)(vue@3.5.18(typescript@5.4.3)):
     dependencies:
       '@floating-ui/dom': 1.7.3
       '@floating-ui/vue': 1.1.8(vue@3.5.18(typescript@5.4.3))
